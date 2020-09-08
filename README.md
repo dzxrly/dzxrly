@@ -10,8 +10,8 @@
 
 ### Part of My Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dzxrly&repo=BFVStatus)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dzxrly&repo=BFVStatus&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dzxrly&repo=MHWIBDmgCalculator)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dzxrly&repo=MHWIBDmgCalculator&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidZhang73&repo=Daty)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidZhang73&repo=Daty&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
