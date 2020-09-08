@@ -15,5 +15,3 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dzxrly&repo=MHWIBDmgCalculator)](https://github.com/anuraghazra/github-readme-stats)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidZhang73&repo=Daty)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaotxiaox&repo=SDUWHGraduationProjectSystem)](https://github.com/anuraghazra/github-readme-stats)
