@@ -8,6 +8,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzxrly&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-### My Repositories
+### Part of My Repositories
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dzxrly&repo=BFVStatus)](https://github.com/anuraghazra/github-readme-stats)
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dzxrly&repo=MHWIBDmgCalculator)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidZhang73&repo=Daty)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=xiaotxiaox&repo=SDUWHGraduationProjectSystem)](https://github.com/anuraghazra/github-readme-stats)
