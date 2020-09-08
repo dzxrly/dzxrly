@@ -1,6 +1,6 @@
 ### Hi there, I'm Egg_Targaryen 👋
 
-一个喜爱Vue.js的前端菜鸡，喜欢写一些乱七八糟的小东西~
+一个喜爱Vue的前端菜鸡，喜欢写一些乱七八糟的小东西~
 
 ### Github Overview
 
