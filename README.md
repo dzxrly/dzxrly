@@ -12,8 +12,6 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dzxrly&repo=BFVStatus&theme=vue)](https://github.com/dzxrly/BFVStatus)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dzxrly&repo=egg-fluent-ui&theme=vue)](https://github.com/dzxrly/egg-fluent-ui)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dzxrly&repo=MHWIBDmgCalculator&theme=vue)](https://github.com/dzxrly/MHWIBDmgCalculator)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidZhang73&repo=Daty&theme=vue)](https://github.com/DavidZhang73/Daty)
