@@ -11,4 +11,4 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dzxrly&repo=MHWIBDmgCalculator&theme=vue)](https://github.com/dzxrly/MHWIBDmgCalculator)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dzxrly&repo=mhst2factor&theme=vue)]([https://github.com/DavidZhang73/Daty](https://github.com/dzxrly/mhst2factor))
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dzxrly&repo=mhst2factor&theme=vue)](https://github.com/dzxrly/mhst2factor)
