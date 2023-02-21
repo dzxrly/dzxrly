@@ -7,8 +7,4 @@
 
 ### Part of My Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dzxrly&repo=BFVStatus&theme=vue)](https://github.com/dzxrly/BFVStatus)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dzxrly&repo=MHWIBDmgCalculator&theme=vue)](https://github.com/dzxrly/MHWIBDmgCalculator)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dzxrly&repo=mhst2factor&theme=vue)](https://github.com/dzxrly/mhst2factor)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dzxrly&repo=BFVStatus&theme=vue)](https://github.com/dzxrly/AstroYOLO)
