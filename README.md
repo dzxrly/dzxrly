@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently learning Machine Learning and Big Data<br>👯 I’m currently working in Qintianjia-Lab<br>🌱 I’m currently learning Kotlin and Jetpack Compose
+🔭 I’m currently learning Machine Learning and Big Data<br>👯 I’m currently working in [Qintianjia-Lab](https://qintianjian-lab.github.io/)<br>🌱 I’m currently learning Kotlin and Jetpack Compose
 
 
 # 💻 Tech Stack:
