@@ -1,4 +1,4 @@
-### Hi there, I'm Egg_Targaryen 👋
+### Hi there, I'm Egg Targaryen 👋
 ### Github Overview
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dzxrly&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true)](https://github.com/dzxrly)
