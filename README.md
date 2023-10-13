@@ -29,6 +29,6 @@
 
 ---
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F0PZH7X)[![](https://visitcount.itsvg.in/api?id=dzxrly&icon=6&color=0)](https://visitcount.itsvg.in)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F0PZH7X) [![](https://visitcount.itsvg.in/api?id=dzxrly&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
