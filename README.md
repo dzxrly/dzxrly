@@ -29,4 +29,6 @@
 
 ---
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F0PZH7X) [![](https://visitcount.itsvg.in/api?id=dzxrly&label=Profile%20Views&icon=1&pretty=true)](https://visitcount.itsvg.in)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F0PZH7X)
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=dzxrly&label=Profile%20Views&icon=1&pretty=true)](https://visitcount.itsvg.in)
