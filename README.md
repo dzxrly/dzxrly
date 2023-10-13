@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently learning Machine Learning and Big Data<br>👯 I’m currently working in [Qintianjia-Lab](https://qintianjian-lab.github.io/)<br>🌱 I’m currently learning Kotlin and Jetpack Compose
+🔭 I’m currently learning Deep Learning and Big Data<br>👯 I’m currently working in [Qintianjia-Lab](https://qintianjian-lab.github.io/)<br>🌱 I’m currently learning Kotlin and Jetpack Compose
 
 
 # 💻 Tech Stack:
@@ -32,3 +32,7 @@
 [![](https://visitcount.itsvg.in/api?id=dzxrly&icon=6&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F0PZH7X)
