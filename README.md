@@ -2,8 +2,8 @@
 
 ## 💫 About Me:
 
-- 🔭 Deep Learning
-- 👯 Astronomy Big Data and Data Mining
+- ✨ Deep Learning
+- 🔭 Astronomy Big Data and Data Mining
 - 🌱 Android Native Development
 - 🛜 Web Front-end Development
 
