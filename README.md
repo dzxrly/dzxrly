@@ -12,25 +12,13 @@
 ## 📊 GitHub Stats:
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   
-  ![](https://github-readme-stats.vercel.app/api?username=dzxrly&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=dzxrly&theme=onedark&hide_border=false)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dzxrly&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api?username=dzxrly&hide_border=false&include_all_commits=true&count_private=true)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=dzxrly&hide_border=false)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dzxrly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
 </div>
 
-## 🏆 GitHub Trophies
-<div align="center">
-  
-  ![](https://github-profile-trophy.vercel.app/?username=dzxrly&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-  
-</div>
-
-## 🔝 Top Contributed Repo
-<div align="center">
-
-  ![](https://github-contributor-stats.vercel.app/api?username=dzxrly&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-  
-</div>
+![](./profile-3d-contrib/profile-south-season-animate.svg)
 
 ---
 
