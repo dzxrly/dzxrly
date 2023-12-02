@@ -27,9 +27,9 @@
 </p>
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   
-  ![](https://github-readme-stats.vercel.app/api?username=dzxrly&hide_border=false&include_all_commits=true&count_private=true)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=dzxrly&hide_border=false)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dzxrly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api?username=dzxrly&hide_border=false&include_all_commits=true&count_private=true#gh-light-mode-only)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=dzxrly&hide_border=false#gh-light-mode-only)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dzxrly&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only)
   
 </div>
 
