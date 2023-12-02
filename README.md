@@ -1,4 +1,8 @@
-# Hi, I'm EggTargaryen~
+<div align="center">
+
+	[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=06FFD1&random=false&width=435&lines=Hi%2C+I'm+Egg+Targaryen~)](https://git.io/typing-svg)
+ 
+</div>
 
 <p align="center">
 	<picture>
