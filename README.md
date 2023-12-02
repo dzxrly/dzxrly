@@ -24,17 +24,20 @@
 </div>
 
 ## 📊 GitHub Stats:
-<p align="center">
+<div align="center">
 	<picture>
 	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dzxrly/dzxrly/main/profile-3d-contrib/profile-south-season-animate.svg" />
 	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dzxrly/dzxrly/main/profile-3d-contrib/profile-night-rainbow.svg" />
 	  <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/dzxrly/dzxrly/main/profile-3d-contrib/profile-south-season-animate.svg" />
 	</picture>
-</p>
+</div>
 
-<p align="center">
-	
-</p>
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+ 
+</div>
 
 <!--
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
