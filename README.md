@@ -35,7 +35,12 @@
 
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;"><span style="font-size: 24px;">Visitors: </span><img src="https://profile-counter.glitch.me/dzxrly/count.svg" alt="dzxrly :: Visitor's Count" />
+
+<div align="center">
+<h6>Visitors: </h6>
+</div>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+<img src="https://profile-counter.glitch.me/dzxrly/count.svg" alt="dzxrly :: Visitor's Count" />
 </div>
 
 <div align="center">
