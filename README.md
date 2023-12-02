@@ -36,6 +36,7 @@
 	
 </p>
 
+<!--
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
 	<picture>
 		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dzxrly&hide_border=false&include_all_commits=true&count_private=true" />
@@ -53,6 +54,7 @@
 	  	<img alt="github profile code stat" src="https://github-readme-streak-stats.herokuapp.com/?user=dzxrly&hide_border=false" />
 	</picture>
 </div>
+-->
 
 ---
 
