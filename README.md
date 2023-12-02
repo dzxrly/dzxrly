@@ -35,8 +35,7 @@
 
 ---
 
-<h4 align="center">访客数 :eyes:</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/dzxrly/count.svg" alt="dzxrly :: Visitor's Count" /></p>
+<p align="center">Visitors: <img src="https://profile-counter.glitch.me/dzxrly/count.svg" alt="dzxrly :: Visitor's Count" /></p>
 
 <div align="center">
   
