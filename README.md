@@ -35,7 +35,8 @@
 
 ---
 
-<p align="center">Visitors: <img src="https://profile-counter.glitch.me/dzxrly/count.svg" alt="dzxrly :: Visitor's Count" /></p>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;"><span>Visitors: </span><img src="https://profile-counter.glitch.me/dzxrly/count.svg" alt="dzxrly :: Visitor's Count" />
+</div>
 
 <div align="center">
   
