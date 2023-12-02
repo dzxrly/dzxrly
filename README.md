@@ -20,26 +20,32 @@
 ## 📊 GitHub Stats:
 <p align="center">
 	<picture>
-	  <source media="(prefers-color-scheme: light)"  srcset="https://raw.githubusercontent.com/dzxrly/dzxrly/main/profile-3d-contrib/profile-south-season-animate.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dzxrly/dzxrly/main/profile-3d-contrib/profile-south-season-animate.svg" />
 	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dzxrly/dzxrly/main/profile-3d-contrib/profile-night-rainbow.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/dzxrly/dzxrly/main/profile-3d-contrib/profile-south-season-animate.svg" />
+	  <img alt="github profile contributions chart" src="https://raw.githubusercontent.com/dzxrly/dzxrly/main/profile-3d-contrib/profile-south-season-animate.svg" />
 	</picture>
 </p>
 
 <p align="center">
-	<picture>
-	  <source media="(prefers-color-scheme: light)"  srcset="https://github-readme-stats.vercel.app/api?username=dzxrly&hide_border=false&include_all_commits=true&count_private=true" />
-	  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dzxrly&hide_border=false&include_all_commits=true&count_private=true#theme=onedark" />
-	  <img alt="github profile contributions chart"    src="https://github-readme-stats.vercel.app/api?username=dzxrly&hide_border=false&include_all_commits=true&count_private=true" />
-	</picture>
+	
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  
-  ![](https://github-readme-stats.vercel.app/api?username=dzxrly&hide_border=false&include_all_commits=true&count_private=true)
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=dzxrly&hide_border=false)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dzxrly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-  
+	<picture>
+		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dzxrly&hide_border=false&include_all_commits=true&count_private=true" />
+	  	<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dzxrly&hide_border=false&include_all_commits=true&count_private=true&theme=onedark" />
+	  	<img alt="github profile code stat" src="https://github-readme-stats.vercel.app/api?username=dzxrly&hide_border=false&include_all_commits=true&count_private=true" />
+	</picture>
+ 	<picture>
+		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=dzxrly&hide_border=false" />
+	  	<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=dzxrly&hide_border=false&theme=onedark" />
+	  	<img alt="github profile code stat" src="https://github-readme-streak-stats.herokuapp.com/?user=dzxrly&hide_border=false" />
+	</picture>
+ 	<picture>
+		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dzxrly&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=java" />
+	  	<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dzxrly&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=java&theme=onedark" />
+	  	<img alt="github profile code stat" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzxrly&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=java" />
+	</picture>
 </div>
 
 ---
