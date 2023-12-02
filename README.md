@@ -36,11 +36,13 @@
 	  	<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dzxrly&hide_border=false&include_all_commits=true&count_private=true&theme=onedark" />
 	  	<img alt="github profile code stat" src="https://github-readme-stats.vercel.app/api?username=dzxrly&hide_border=false&include_all_commits=true&count_private=true" />
 	</picture>
+	<!--
 	<picture>
 		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dzxrly&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=java,html,javascript,css" />
 	  	<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dzxrly&hide_border=false&include_all_commits=true&count_private=true&layout=compact&theme=onedark&hide=java,html,javascript,css" />
 	  	<img alt="github profile code stat" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzxrly&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=java,html,javascript,css" />
 	</picture>
+	-->
  	<picture>
 		<source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=dzxrly&hide_border=false" />
 	  	<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=dzxrly&hide_border=false&theme=onedark" />
