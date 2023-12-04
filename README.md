@@ -35,6 +35,14 @@
 <div align="center">
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 2 mins
+
+Python                         ████████████████████████▓   99.11 %
+Shell Script                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+```
+
 <!--END_SECTION:waka-->
  
 </div>
