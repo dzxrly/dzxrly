@@ -39,8 +39,8 @@
 ```txt
 Total Time: 2 mins
 
-Python                         ████████████████████████▓   99.11 %
-Shell Script                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Python         2 mins          ████████████████████████▓   99.11 %
+Shell Script   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->
