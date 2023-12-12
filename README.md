@@ -1,5 +1,11 @@
 <p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=24&duration=4000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Hi%2C+I'm+Egg+Targaryen+~" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg">
+		<picture>
+			<source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=24&duration=4000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Hi%2C+I'm+Egg+Targaryen+~" />
+			<source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=24&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Hi%2C+I'm+Egg+Targaryen+~" />
+			<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=500&size=24&duration=4000&pause=1000&color=000000&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Hi%2C+I'm+Egg+Targaryen+~" alt="Typing SVG" />
+		</picture>
+	</a>
 </p>
 
 <p align="center">
