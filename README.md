@@ -43,12 +43,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 45 mins
+Total Time: 2 hrs 4 mins
 
-Bash           52 mins         ████████░░░░░░░░░░░░░░░░░   31.41 %
-Python         52 mins         ████████░░░░░░░░░░░░░░░░░   31.40 %
-PowerShell     23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
-Shell Script   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Bash           50 mins         ██████████▒░░░░░░░░░░░░░░   40.97 %
+PowerShell     23 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.57 %
+Python         15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
+Dart           6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
 ```
 
 <!--END_SECTION:waka-->
