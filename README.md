@@ -43,12 +43,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 25 mins
+Total Time: 29 mins
 
-Vue.js           2 hrs 17 mins   ████████████████▓░░░░░░░░   66.73 %
-TypeScript       25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
-SCSS             7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-JavaScript       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+GitIgnore file   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+Dart             1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+Gradle           1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Groovy           0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 ```
 
 <!--END_SECTION:waka-->
