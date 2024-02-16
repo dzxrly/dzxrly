@@ -43,12 +43,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 29 mins
+Total Time: 1 hr 27 mins
 
-GitIgnore file   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
-Dart             1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
-Gradle           1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
-Groovy           0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+SVG                           13 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
+Dart                          6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
+Application Resource Bundle   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+GitIgnore file                2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
 ```
 
 <!--END_SECTION:waka-->
