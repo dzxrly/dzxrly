@@ -43,12 +43,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 13 mins
+Total Time: 1 hr
 
-SVG                           13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.59 %
-Dart                          6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
-Application Resource Bundle   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-XML                           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+SVG                           13 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.78 %
+Dart                          6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
+Application Resource Bundle   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+XML                           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
