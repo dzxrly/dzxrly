@@ -43,11 +43,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 41 mins
+Total Time: 6 hrs 48 mins
 
-Dart                          3 hrs 55 mins   ████████████▓░░░░░░░░░░░░   51.06 %
-Application Resource Bundle   30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
-SVG                           13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Dart                          3 hrs 49 mins   ██████████████░░░░░░░░░░░   56.17 %
+Application Resource Bundle   27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+Markdown                      9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
