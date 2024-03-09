@@ -43,12 +43,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 33 mins
+Total Time: 5 hrs 42 mins
 
-Dart                          2 hrs 24 mins   █████████████████░░░░░░░░   67.61 %
-Python                        33 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
-Application Resource Bundle   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
-Text                          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Dart                          3 hrs 46 mins   ████████████████▓░░░░░░░░   66.23 %
+Python                        1 hr 3 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.43 %
+Application Resource Bundle   17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+INI                           12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
 ```
 
 <!--END_SECTION:waka-->
