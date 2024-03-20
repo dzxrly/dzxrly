@@ -21,8 +21,11 @@
 <div align="center">
 
 👀 Deep Learning & Computer Vision
+
 🔭 Astronomy Big Data & Data Mining
+
 📱 Android Native Development
+
 🛜 Web Front-end Development
 
 </div>
