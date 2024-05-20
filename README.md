@@ -51,13 +51,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 1 min
+Total Time: 1 hr 54 mins
 
-Python           43 mins         █████████░░░░░░░░░░░░░░░░   36.29 %
-Markdown         25 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.06 %
-JSON             17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.83 %
-Dart             11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
-GitIgnore file   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+Python           43 mins         █████████▓░░░░░░░░░░░░░░░   38.35 %
+Markdown         22 mins         █████░░░░░░░░░░░░░░░░░░░░   19.43 %
+JSON             17 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
+Dart             11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
+GitIgnore file   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
 ```
 
 <!--END_SECTION:waka-->
