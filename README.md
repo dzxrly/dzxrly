@@ -51,13 +51,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 8 mins
+Total Time: 8 hrs 28 mins
 
-Python           2 hrs 17 mins   ██████████████████▒░░░░░░   73.01 %
-Vue.js           17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
-Bash             10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-Text             9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-TypeScript       8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+Python             3 hrs 52 mins   ███████████▒░░░░░░░░░░░░░   45.64 %
+Vue.js             2 hrs 36 mins   ███████▓░░░░░░░░░░░░░░░░░   30.68 %
+TypeScript         1 hr 9 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.75 %
+SCSS               14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Bash               12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
 ```
 
 <!--END_SECTION:waka-->
