@@ -51,13 +51,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 14 mins
+Total Time: 2 hrs 36 mins
 
-Python              1 hr            ████████████████████░░░░░   80.57 %
-Debian Sourcelist   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
-GitIgnore file      4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-Markdown            3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-Vue.js              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+Python              2 hrs 8 mins    ████████████████████▓░░░░   82.01 %
+YAML                16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
+Debian Sourcelist   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Markdown            3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Bash                1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
