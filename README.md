@@ -51,13 +51,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 2 hrs 36 mins
+Total Time: 7 hrs 38 mins
 
-Python              2 hrs 8 mins    ████████████████████▓░░░░   82.01 %
-YAML                16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
-Debian Sourcelist   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-Markdown            3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
-Bash                1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Python           3 hrs 14 mins   ██████████▓░░░░░░░░░░░░░░   42.47 %
+Markdown         1 hr 23 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.20 %
+TypeScript       53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
+JSON             33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+YAML             30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
 ```
 
 <!--END_SECTION:waka-->
