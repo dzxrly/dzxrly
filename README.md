@@ -51,13 +51,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 13 hrs 1 min
+Total Time: 8 hrs 5 mins
 
-Python             6 hrs 50 mins   █████████████░░░░░░░░░░░░   52.51 %
-Markdown           1 hr 50 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.12 %
-TypeScript         53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
-Vue.js             41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
-JavaScript         39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+Python             5 hrs 55 mins   ██████████████████▒░░░░░░   73.20 %
+Markdown           30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+YAML               24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+Vue.js             22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+GitIgnore file     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 ```
 
 <!--END_SECTION:waka-->
