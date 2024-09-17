@@ -51,13 +51,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 6 hrs 4 mins
+Total Time: 6 hrs 33 mins
 
-Python                     4 hrs 46 mins   ███████████████████▓░░░░░   78.71 %
-Vue.js                     30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
-Nginx configuration file   17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
-TypeScript                 8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-Docker                     8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Python                     3 hrs 44 mins   ██████████████▒░░░░░░░░░░   56.90 %
+Lua                        42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.71 %
+Vue.js                     30 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+Markdown                   28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+YAML                       25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
 ```
 
 <!--END_SECTION:waka-->
