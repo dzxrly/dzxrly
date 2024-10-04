@@ -6,8 +6,6 @@
 	</picture>
 </p>
 
-## 💫 About Me:
-
 <div align="center">
 
 👀 Deep Learning & Computer Vision
@@ -20,7 +18,6 @@
 
 </div>
 
-## 📊 GitHub Stats:
 <div align="center">
 	<picture>
 	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dzxrly/dzxrly/main/profile-3d-contrib/profile-custom-season.svg" />
@@ -68,7 +65,6 @@ Bash               5 mins          ▒░░░░░░░░░░░░░░
 -->
 
 ---
-
 
 <div align="center">
 <h6>Visitors: </h6>
