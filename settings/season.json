@@ -10,31 +10,31 @@
     "growingAnimation": true,
     "contribColors1": [
       "#ffffff",
-      "#ffe7ff",
-      "#edaeda",
-      "#e492ca",
-      "#ba7aad"
-    ],
-    "contribColors2": [
-      "#ffffff",
-      "#d8e887",
-      "#8cc569",
-      "#47a042",
-      "#1d6a23"
-    ],
-    "contribColors3": [
-      "#ffffff",
       "#ffed4a",
       "#ffc402",
       "#fe9400",
       "#fa6100"
     ],
-    "contribColors4": [
+    "contribColors2": [
       "#ffffff",
       "#999999",
       "#cccccc",
       "#dddddd",
       "#eeeeee"
+    ],
+    "contribColors3": [
+      "#ffffff",
+      "#ffe7ff",
+      "#edaeda",
+      "#e492ca",
+      "#ba7aad"
+    ],
+    "contribColors4": [
+      "#ffffff",
+      "#d8e887",
+      "#8cc569",
+      "#47a042",
+      "#1d6a23"
     ]
   },
   {
@@ -48,31 +48,31 @@
     "growingAnimation": true,
     "contribColors1": [
       "#424242",
-      "#ffe7ff",
-      "#edaeda",
-      "#e492ca",
-      "#ba7aad"
-    ],
-    "contribColors2": [
-      "#424242",
-      "#d8e887",
-      "#8cc569",
-      "#47a042",
-      "#1d6a23"
-    ],
-    "contribColors3": [
-      "#424242",
       "#ffed4a",
       "#ffc402",
       "#fe9400",
       "#fa6100"
     ],
-    "contribColors4": [
+    "contribColors2": [
       "#424242",
       "#999999",
       "#cccccc",
       "#dddddd",
       "#eeeeee"
+    ],
+    "contribColors3": [
+      "#424242",
+      "#ffe7ff",
+      "#edaeda",
+      "#e492ca",
+      "#ba7aad"
+    ],
+    "contribColors4": [
+      "#424242",
+      "#d8e887",
+      "#8cc569",
+      "#47a042",
+      "#1d6a23"
     ]
   }
 ]
