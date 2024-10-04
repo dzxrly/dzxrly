@@ -1,14 +1,78 @@
-{
-  "type": "season",
-  "fileName": "profile-custom-season.svg",
-  "backgroundColor": "#ffffff",
-  "foregroundColor": "#00000f",
-  "strongColor": "#111133",
-  "weakColor": "gray",
-  "radarColor": "#47a042",
-  "growingAnimation": true,
-  "contribColors1": ["#ffffff", "#ffe7ff", "#edaeda", "#e492ca", "#ba7aad"],
-  "contribColors2": ["#ffffff", "#d8e887", "#8cc569", "#47a042", "#1d6a23"],
-  "contribColors3": ["#ffffff", "#ffed4a", "#ffc402", "#fe9400", "#fa6100"],
-  "contribColors4": ["#ffffff", "#999999", "#cccccc", "#dddddd", "#eeeeee"]
-}
+[
+  {
+    "type": "season",
+    "fileName": "profile-custom-season.svg",
+    "backgroundColor": "#ffffff",
+    "foregroundColor": "#00000f",
+    "strongColor": "#111133",
+    "weakColor": "gray",
+    "radarColor": "#47a042",
+    "growingAnimation": true,
+    "contribColors1": [
+      "#ffffff",
+      "#ffe7ff",
+      "#edaeda",
+      "#e492ca",
+      "#ba7aad"
+    ],
+    "contribColors2": [
+      "#ffffff",
+      "#d8e887",
+      "#8cc569",
+      "#47a042",
+      "#1d6a23"
+    ],
+    "contribColors3": [
+      "#ffffff",
+      "#ffed4a",
+      "#ffc402",
+      "#fe9400",
+      "#fa6100"
+    ],
+    "contribColors4": [
+      "#ffffff",
+      "#999999",
+      "#cccccc",
+      "#dddddd",
+      "#eeeeee"
+    ]
+  },
+  {
+    "type": "season",
+    "fileName": "profile-custom-season-dark.svg",
+    "backgroundColor": "#0d1117",
+    "foregroundColor": "#f0f6fc",
+    "strongColor": "#000000",
+    "weakColor": "#efefef",
+    "radarColor": "#ffc837",
+    "growingAnimation": true,
+    "contribColors1": [
+      "#0d1117",
+      "#ffe7ff",
+      "#edaeda",
+      "#e492ca",
+      "#ba7aad"
+    ],
+    "contribColors2": [
+      "#0d1117",
+      "#d8e887",
+      "#8cc569",
+      "#47a042",
+      "#1d6a23"
+    ],
+    "contribColors3": [
+      "#0d1117",
+      "#ffed4a",
+      "#ffc402",
+      "#fe9400",
+      "#fa6100"
+    ],
+    "contribColors4": [
+      "#0d1117",
+      "#999999",
+      "#cccccc",
+      "#dddddd",
+      "#eeeeee"
+    ]
+  }
+]
