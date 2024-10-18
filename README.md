@@ -37,12 +37,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 43 mins
+Total Time: 4 hrs 34 mins
 
-JavaScript     1 hr 16 mins    ████████▓░░░░░░░░░░░░░░░░   34.39 %
-Python         1 hr 11 mins    ████████░░░░░░░░░░░░░░░░░   32.06 %
-TeX            24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
-Vue.js         9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+Python         2 hrs           ███████████░░░░░░░░░░░░░░   44.02 %
+JavaScript     1 hr 2 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.84 %
+TeX            24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.90 %
+TOML           13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
 ```
 
 <!--END_SECTION:waka-->
