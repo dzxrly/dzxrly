@@ -37,12 +37,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 1 min
+Total Time: 5 hrs 8 mins
 
-Python             2 hrs 34 mins   ████████████▓░░░░░░░░░░░░   51.13 %
-JavaScript         1 hr 2 mins     █████▒░░░░░░░░░░░░░░░░░░░   20.82 %
-TeX                24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-TOML               13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+Python             3 hrs 8 mins    ███████████████▒░░░░░░░░░   60.96 %
+JavaScript         1 hr 2 mins     █████░░░░░░░░░░░░░░░░░░░░   20.34 %
+TOML               13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+Shell Script       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
 ```
 
 <!--END_SECTION:waka-->
