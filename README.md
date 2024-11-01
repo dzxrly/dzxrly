@@ -37,12 +37,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 44 mins
+Total Time: 9 hrs 8 mins
 
-Python             7 hrs 1 min     ██████████████████████▓░░   90.75 %
-Shell Script       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Bash               3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python             6 hrs 20 mins   █████████████████▒░░░░░░░   69.51 %
+TypeScript         1 hr 9 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 %
+Text               34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+Shell Script       13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
 ```
 
 <!--END_SECTION:waka-->
