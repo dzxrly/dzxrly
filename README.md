@@ -37,12 +37,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 14 hrs 32 mins
+Total Time: 12 hrs 10 mins
 
-Python         11 hrs 48 mins  ████████████████████▒░░░░   81.26 %
-TypeScript     52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
-Vue.js         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-CSV/TSV        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Python         11 hrs 9 mins   ███████████████████████░░   91.63 %
+CSV/TSV        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
