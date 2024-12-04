@@ -37,9 +37,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 secs
+Total Time: 37 mins
 
-Python   0 secs          █████████████████████████   100.00 %
+Python    37 mins         █████████████████████████   99.64 %
+CSV/TSV   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
