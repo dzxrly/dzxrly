@@ -37,12 +37,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 23 mins
+Total Time: 4 hrs 20 mins
 
-Python             4 hrs 15 mins   ████████████████████████▒   96.73 %
-Text               8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
-Shell Script       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python             4 hrs 10 mins   ████████████████████████░   96.15 %
+Text               8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+Requirements.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Markdown           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
