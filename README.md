@@ -16,6 +16,8 @@
 
 </div>
 
+<!--
+
 <p align="center">
 	<picture>
   		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dzxrly/dzxrly/output/github-contribution-grid-snake-dark.svg" />
@@ -23,6 +25,8 @@
   		<img alt="github-snake" src="github-snake.svg" />
 	</picture>
 </p>
+
+-->
 
 <div align="center">
 	<picture>
