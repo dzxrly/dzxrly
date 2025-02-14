@@ -41,10 +41,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 9 mins
+Total Time: 1 hr 58 mins
 
-Python         38 mins         █████████████▓░░░░░░░░░░░   54.97 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Python         38 mins         ████████░░░░░░░░░░░░░░░░░   32.30 %
+Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 Dart           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
