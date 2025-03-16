@@ -41,12 +41,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 3 hrs 32 mins
+Total Time: 3 hrs 13 mins
 
-Python         1 hr 24 mins    ██████████░░░░░░░░░░░░░░░   39.66 %
-Lua            32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
-Text           30 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.38 %
-CSV file       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Python         1 hr 14 mins    █████████▓░░░░░░░░░░░░░░░   38.73 %
+Text           30 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
+Lua            17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
+CSV file       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
 ```
 
 <!--END_SECTION:waka-->
