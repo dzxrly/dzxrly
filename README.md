@@ -41,12 +41,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 14 hrs 51 mins
+Total Time: 17 hrs 13 mins
 
-Python             13 hrs 10 mins  ██████████████████████░░░   88.66 %
-Jupyter            1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
-GitIgnore file     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-SQL                6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+Python           16 hrs 41 mins  ████████████████████████▒   96.92 %
+GitIgnore file   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Jupyter          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
