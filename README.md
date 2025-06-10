@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 21 hrs 7 mins
+Total Time: 22 hrs 7 mins
 
-Python           20 hrs 25 mins  ████████████████████████▒   96.69 %
-Bash             11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-GitIgnore file   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Jupyter          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
-Markdown         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Python           21 hrs 10 mins  ████████████████████████░   95.71 %
+Bash             18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+Shell Script     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Jupyter          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+GitIgnore file   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
