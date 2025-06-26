@@ -41,13 +41,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 24 hrs 5 mins
+Total Time: 22 hrs 31 mins
 
-Python             22 hrs 58 mins  ███████████████████████▓░   95.33 %
-CSV                33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-Text               12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-Requirements.txt   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-GitIgnore file     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Python             20 hrs 53 mins  ███████████████████████▒░   92.72 %
+CSV                33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+Jupyter            32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Text               11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Requirements.txt   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
 ```
 
 <!--END_SECTION:waka-->
