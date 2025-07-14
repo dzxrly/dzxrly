@@ -73,11 +73,6 @@ CSV                10 mins         ▒░░░░░░░░░░░░░░
 </div>
 -->
 
----
-
-<div align="center">
-<h6>Visitors: </h6>
-</div>
 <div align="center">
 <img src="https://profile-counter.glitch.me/dzxrly/count.svg" alt="dzxrly :: Visitor's Count" />
 </div>
