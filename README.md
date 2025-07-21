@@ -41,10 +41,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 18 hrs 34 mins
+Total Time: 18 hrs 10 mins
 
-Python             17 hrs 48 mins  ████████████████████████░   95.63 %
-Jupyter            43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+Python             17 hrs 24 mins  ████████████████████████░   95.54 %
+Jupyter            43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
 Other              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 CSV                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 CSV file           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
