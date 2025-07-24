@@ -41,12 +41,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 22 hrs 23 mins
+Total Time: 21 hrs 34 mins
 
-Python             20 hrs 46 mins  ███████████████████████░░   92.51 %
-Jupyter            49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-Lua                7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-Shell Script       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Python         19 hrs 44 mins  ██████████████████████▓░░   91.23 %
+Jupyter        45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+Shell Script   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Lua            7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
