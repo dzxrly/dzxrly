@@ -41,13 +41,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 13 hrs 7 mins
+Total Time: 14 hrs 25 mins
 
-Python             10 hrs 54 mins  ████████████████████▓░░░░   82.90 %
-Jupyter            34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
-TypeScript         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-Vue.js             28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-Markdown           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+Python             12 hrs 7 mins   █████████████████████░░░░   83.96 %
+Vue.js             42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+TypeScript         33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+Jupyter            17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
 ```
 
 <!--END_SECTION:waka-->
