@@ -29,12 +29,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 7 hrs 2 mins
+Total Time: 7 hrs 31 mins
 
-Python           3 hrs 48 mins   █████████████▓░░░░░░░░░░░   54.10 %
-Jupyter          2 hrs 58 mins   ██████████▓░░░░░░░░░░░░░░   42.29 %
-CSV              9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python           3 hrs 42 mins   ████████████▒░░░░░░░░░░░░   49.37 %
+Jupyter          3 hrs 32 mins   ███████████▓░░░░░░░░░░░░░   47.18 %
+CSV              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Image (svg)      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
