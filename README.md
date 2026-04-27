@@ -29,12 +29,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 43 mins
+Total Time: 6 hrs 52 mins
 
-Python            3 hrs 53 mins         ████████████████████▒░░░░   81.24 %
-Bash              11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
-Java Properties   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Other             2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+Python            3 hrs 53 mins         ██████████████░░░░░░░░░░░   56.15 %
+Lua               2 hrs 7 mins          ███████▓░░░░░░░░░░░░░░░░░   30.55 %
+Bash              11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Java Properties   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
