@@ -29,11 +29,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 8 mins
+Total Time: 4 hrs
 
-Python         2 hrs 48 mins         █████████████▒░░░░░░░░░░░   53.72 %
-Lua            26 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
-Other          6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Python         2 hrs 13 mins         █████████████▓░░░░░░░░░░░   54.32 %
+Lua            26 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
+Other          6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
 ```
 
 <!--END_SECTION:waka-->
