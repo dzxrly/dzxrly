@@ -29,12 +29,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 17 hrs 25 mins
+Total Time: 14 hrs 30 mins
 
-Python           11 hrs 9 mins         ███████████████▓░░░░░░░░░   62.91 %
-Markdown         3 hrs 37 mins         █████░░░░░░░░░░░░░░░░░░░░   20.39 %
-TOML             1 hr 9 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
-Other            19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Python           9 hrs 42 mins         ████████████████▓░░░░░░░░   66.40 %
+Markdown         3 hrs 3 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.89 %
+TOML             43 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+GitIgnore file   14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 ```
 
 <!--END_SECTION:waka-->
