@@ -29,12 +29,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 10 mins
+Total Time: 8 hrs 37 mins
 
-Python           3 hrs 53 mins         ████████▓░░░░░░░░░░░░░░░░   35.02 %
-Other            1 hr 57 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.61 %
-Markdown         1 hr 28 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 %
-Text             49 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+Python           3 hrs 50 mins         █████████▒░░░░░░░░░░░░░░░   37.31 %
+Other            1 hr 41 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.40 %
+Markdown         1 hr 26 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
+Text             38 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
 ```
 
 <!--END_SECTION:waka-->
