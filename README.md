@@ -29,12 +29,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 37 mins
+Total Time: 8 hrs 47 mins
 
-Python             4 hrs 7 mins          ██████████░░░░░░░░░░░░░░░   40.37 %
-Other              1 hr 34 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.51 %
-Jupyter            1 hr 8 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
-Git Config         23 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Python             4 hrs 9 mins          █████████▓░░░░░░░░░░░░░░░   38.46 %
+Other              2 hrs                 ████▓░░░░░░░░░░░░░░░░░░░░   18.66 %
+Jupyter            1 hr 9 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.78 %
+Vue                16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
 ```
 
 <!--END_SECTION:waka-->
